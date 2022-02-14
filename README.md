@@ -1,1 +1,1 @@
-# warehouse_apparel_detectioni
+# warehouse_apparel_detection
