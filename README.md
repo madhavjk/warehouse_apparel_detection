@@ -1,8 +1,8 @@
-# warehouse_apparel_detection
+# warehouse_safety_kit_detection
 
 Following are instructions to run the project:
 1. Open cmd and type command 
-'git clone https://github.com/madhavjk/warehouse_apparel_detection.git'
+'git clone https://github.com/madhavjk/warehouse_safety_kit_detection.git'
 
 2. Enter project directory 
   'cd warehouse_apparel_detection'
